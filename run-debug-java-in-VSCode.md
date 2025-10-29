@@ -5,8 +5,7 @@ Download JDK 17 (LTS): Search “Download JDK 17” → install
 2️⃣ Install Java Extension Pack in VS Code
 Extensions → search Java Extension Pack → Install
 
-Step 2: Open terminal inside VS Code
-Ctrl + `
+Step 1: Open terminal inside VS Code -> Ctrl + `
 You must be inside the same folder where file is saved.
 
 Step 3: Compile the program ✅
