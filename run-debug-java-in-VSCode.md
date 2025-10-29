@@ -69,32 +69,3 @@ Their changing values every loop
 
 
 You can also hover the mouse over variables to see values.
-
-5️⃣ Step through code
-Use these tiny toolbar buttons:
-ButtonWhat it does⏭ Step OverMove to next line, stay in same function⤵ Step IntoGo inside method calls⏹ StopEnds debugging▶ ContinueJump to the next breakpoint
-Try hitting Step Over repeatedly to watch numbers change.
-
-🎉 Congrats: You’re officially debugging
-Your odd numbers will reveal themselves one by one:
-i = 1 → odd ✅ pause
-i = 2 → skip
-i = 3 → odd ✅ pause
-…
-
-
-🔥 Debug Powers You Unlock
-✅ Pause anywhere
-✅ Inspect variables
-✅ Change values while debugging
-✅ Find bugs with style
-✅ Understand flow like a pro
-
-If you like, I can give you a tiny next exercise:
-Option A → Read a number from keyboard and debug
-Option B → Find sum of odd numbers and debug
-Option C → Debug a crashing program (fun chaos)
-Option D → Your own idea
-Pick one letter, and we continue leveling up! 🚀
-
-
