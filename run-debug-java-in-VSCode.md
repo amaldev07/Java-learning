@@ -18,6 +18,7 @@ java OddNumbers
 
 ----------------------------------------
 ? Can i use another way to run instead of 2 commands
+
 🌟 Option 1: Run Button (Easiest)
 VS Code shows a Run play button above main method.
 It looks like: ▶️ Run | Debug
